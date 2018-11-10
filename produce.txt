@@ -1,2 +1,6 @@
 Fruits  %  vegetables
 ---------------------
+
+grapes
+bananas
+apple
